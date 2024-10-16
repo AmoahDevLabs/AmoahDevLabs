@@ -1,15 +1,16 @@
 # Hello, fellow programmers! 👋
 
-I'm a passionate software developer based in Africa, and I thrive on all things related to Linux, Python, C, Go, and Javascript. If you share these interests, you've come to the right place. Welcome to my GitHub profile!
+I'm a passionate software developer based in Africa, and I thrive on all things related to Linux, Python, C, Rust, Go, Javascript and Dart(Flutter). If you share these interests, you've come to the right place. Welcome to my GitHub profile!
 
 ## About Me
 
 - 💻 I'm a software developer with a strong focus on open-source technologies.
 - 🌐 I'm a fan of Linux and enjoy exploring its vast ecosystem.
 - 🐍 Python is my go-to language for scripting, web development, and data analysis.
-- ⚙️ I dive into systems programming with C, building robust and efficient solutions.
+- ⚙️ I dive into systems programming with C and Rust, building robust and efficient solutions.
 - 🚀 I appreciate Go for its simplicity and performance in building scalable applications.
 - 🌟 Javascript powers my front-end development and interactive web applications.
+- 📱 Flutter powers my front-end development for mobile platforms.
 
 ## Projects
 
