@@ -1,6 +1,6 @@
 # Hello, fellow programmers! 👋
 
-I'm a passionate software developer based in Africa, and I thrive on all things related to Linux, Python, C, Rust, Go, Javascript and Dart(Flutter). If you share these interests, you've come to the right place. Welcome to my GitHub profile!
+I'm a passionate software developer, and I thrive on all things related to Linux, Python, C, Rust, Go, Javascript and Dart(Flutter). If you share these interests, you've come to the right place. Welcome to my GitHub profile!
 
 ## About Me
 
