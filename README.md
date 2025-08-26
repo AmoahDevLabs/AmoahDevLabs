@@ -1,6 +1,6 @@
 # Hello, fellow programmers! 👋
 
-I'm a passionate software developer, and I thrive on all things related to Linux, Python, C, Rust, Go, Kotlin Javascript and Vue.js. If you share these interests, you've come to the right place. Welcome to my GitHub profile!
+I'm a passionate software developer, and I thrive on all things related to Linux, Python, C, Rust, Go, Kotlin,  Javascript and Vue.js. If you share these interests, you've come to the right place. Welcome to my GitHub profile!
 
 ## About Me
 
