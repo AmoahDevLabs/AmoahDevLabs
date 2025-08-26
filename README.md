@@ -1,6 +1,6 @@
 # Hello, fellow programmers! 👋
 
-I'm a passionate software developer, and I thrive on all things related to Linux, Python, C, Rust, Go, Javascript and Dart(Flutter). If you share these interests, you've come to the right place. Welcome to my GitHub profile!
+I'm a passionate software developer, and I thrive on all things related to Linux, Python, C, Rust, Go, Kotlin Javascript and Vue.js. If you share these interests, you've come to the right place. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -10,7 +10,7 @@ I'm a passionate software developer, and I thrive on all things related to Linux
 - ⚙️ I dive into systems programming with C and Rust, building robust and efficient solutions.
 - 🚀 I appreciate Go for its simplicity and performance in building scalable applications.
 - 🌟 Javascript powers my front-end development and interactive web applications.
-- 📱 Flutter powers my front-end development for mobile platforms.
+- 📱 Kotlin and Jetpack Compose powers my front-end development for mobile platforms.
 
 ## Projects
 
