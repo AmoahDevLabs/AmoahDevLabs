@@ -1,25 +1,48 @@
-# Hello, fellow programmers! 👋
+# Hello, fellow programmers! 👋  
 
-I'm a passionate software developer, and I thrive on all things related to Linux, Python, C, Rust, Go, Kotlin,  Javascript and Vue.js. If you share these interests, you've come to the right place. Welcome to my GitHub profile!
+Welcome to my GitHub profile!  
+I’m **Ignatus Arkoh Amoah**, a passionate **Software Engineer** who thrives on solving problems through **clean code, automation, and open-source technologies**.  
 
-## About Me
+---
 
-- 💻 I'm a software developer with a strong focus on open-source technologies.
-- 🌐 I'm a fan of Linux and enjoy exploring its vast ecosystem.
-- 🐍 Python is my go-to language for scripting, web development, and data analysis.
-- ⚙️ I dive into systems programming with C and Rust, building robust and efficient solutions.
-- 🚀 I appreciate Go for its simplicity and performance in building scalable applications.
-- 🌟 Javascript powers my front-end development and interactive web applications.
-- 📱 Kotlin and Jetpack Compose powers my front-end development for mobile platforms.
+## 👨‍💻 About Me  
 
-## Projects
+- 💻 **Software Developer** with a focus on **Full-Stack Development, Systems Programming, and AI-driven solutions**.  
+- 🐧 Enthusiastic **Linux user & system administrator**, exploring automation, DevOps, and networking.  
+- 🐍 **Python first**, leveraging it for scripting, backend (Django, DRF, FastAPI), and AI/LLM integration.  
+- ⚙️ Dive deep into **systems programming** with **C, Rust, and Go** to build robust, scalable, and high-performance software.  
+- 🌐 Strong background in **web development** with **Vue.js, Angular, Htmx, and TailwindCSS**.  
+- 📱 **Kotlin** & Jetpack Compose for experimenting with mobile applications.  
+- 🤖 Exploring **Large Language Models (LLMs)**, prompt engineering, and integrating AI into real-world workflows.  
 
-You'll find a variety of projects here, ranging from Linux system tools and Python libraries to web applications and Go microservices. I'm always exploring new ideas and technologies, so stay tuned for exciting updates!
+---
 
-## Let's Connect
+## 🛠️ Tech Stack  
 
-Feel free to reach out if you'd like to collaborate on a project, discuss a programming topic, or just chat about technology in general. You can contact me through the following channels:
+**Languages & Frameworks:**  
+`Python` · `Rust` · `Go` · `C` · `Kotlin` · `JavaScript/TypeScript` · `Django/DRF` · `FastAPI` · `Vue.js` · `Angular` · `Flask` · `Wagtail CMS` · `Htmx`  
 
+**Databases & Tools:**  
+`PostgreSQL` · `MySQL` · `SQLite` · `RabbitMQ` · `Celery` · `Docker` · `Git`  
+
+**Other Competencies:**  
+- Linux system administration  
+- Network setup & troubleshooting  
+- AI/LLM workflows & automation  
+- Open-source contributions  
+
+---
+
+## 📌 Featured Projects  
+
+- 🏨 **Hotel Booking & Payment System** (Django + Vue.js + Pinia)  
+- 💳 **Banking System Prototype** (Rust-based account & transaction management)  
+- 📧 **Desktop Email Client** (PyQt + Gmail OAuth2 + Scheduling)  
+- 🏫 **Rhino Suite** (Django + Vue.js school management system)  
+- 🌍 **Samreboi Community Network** (LAN + hosting solutions for local community)  
+- 📚 **BitLearn LMS** (Lightweight learning management system in Django)  
+
+👉 Explore more on my [GitHub Repositories](https://github.com/AmoahDevLabs).  
 - 📧 Email: [ignis2a@gmail.com](mailto:ignis2a@gmail.com)
 - 💬 LinkedIn: [Ignatus Arkoh Amoah](https://www.linkedin.com/in/ignatus-arkoh-amoah-0313011a6/)
 - 🐦 Twitter: [@amoahdevlabs](https://twitter.com/amoahdevlabs)
