@@ -72,7 +72,7 @@ I’m **Ignatus Arkoh Amoah**, a passionate **Software Engineer** who thrives on
 - 🌍 **Samreboi Community Network** (LAN + hosting solutions for local community)  
 - 📚 **BitLearn LMS** (Lightweight learning management system in Django)  
 
-👉 Explore more on my [GitHub Repositories](https://github.com/AmoahDevLabs).  
+👉 Explore more on my [GitHub Repositories](https://github.com/AmoahDevLabs?tab=repositories).  
 - 📧 Email: [ignis2a@gmail.com](mailto:ignis2a@gmail.com)
 - 💬 LinkedIn: [Ignatus Arkoh Amoah](https://www.linkedin.com/in/ignatus-arkoh-amoah-0313011a6/)
 - 🐦 Twitter: [@amoahdevlabs](https://twitter.com/amoahdevlabs)
